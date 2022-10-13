@@ -1,0 +1,18 @@
+AT
+AT+CGMI Manufacturer
+AT+CGMM Model Number
+AT+IPR? Serial port speed is set to
+AT+CFUN?  CFUN: 1 Device has Full functionality
+AT+CPAS  CPAS: 0 Device is Ready
+AT+CCLK? Current time
+AT+CSCA? SMS service center address is
+AT+CSMS? 	Service-> GSM 27.005 Compatible
+   		Mobile Terminated SMS -> Supported
+		Mobile Originated SMS -> Supported
+		Broadcast SMS messages -> Supported
+###############################################
+
+AT+CPIN?  	1S: Kiểm tra SIM đầu tiên không bị khóa và nó đã sẵn sàng
+AT+CSQ     	  : Kiểm tra cường độ tín hiệu
+AT+COPS? 	3S: Kiểm tra xem thiết bị trên mạng nào
+AT+CGREG?	3S: Lấy trạng thái đăng ký của thiết bị. Nếu trạng thái là '1', thiết bị được đăng ký và trong mạng gia đình
